@@ -2,7 +2,7 @@
 
 Repo for data and analysis for the manuscript Van Syoc et al 2023.
 
-*Some data used in these analyses cannot be publicly shared since they were obtained from study authors or institutional Data Use Agreements.* Bash scripts to obtain raw metagenomics files and obtain fungal taxonomy are fully reproducible. R scripts for downstream analyses are not reproducible due to data sharing limitations; all files start with a phyloseq object containing fungal taxonomy and metadata but the phyloseq objects are not provided. 
+*Some data used in these analyses cannot be publicly shared since they were obtained from study authors or institutional Data Use Agreements.* Bash scripts to obtain raw metagenomics files and obtain fungal taxonomy are fully reproducible. R scripts for downstream analyses are not reproducible due to data sharing limitations; all files start with a phyloseq object containing fungal taxonomy and metadata but the phyloseq objects are not provided.
 
 The following analyses are provided:
 1. Bash scripts to obtain raw metagenomics files from Sequence Read Archive and obtain bacterial and fungal taxonomy.
